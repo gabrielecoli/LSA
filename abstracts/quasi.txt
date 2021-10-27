@@ -1,0 +1,2 @@
+In this Chapter, we introduce a generic inverse design method to efficiently reverse-engineer crystals, quasicrystals, and liquid crystals by targeting their diffraction patterns. 
+Our algorithm relies on the synergetic use of an evolutionary strategy for parameter optimisation,  and a convolutional neural network as an order parameter, and provides a new way forward for the inverse design of experimentally feasible colloidal interactions, specifically optimised to stabilise the desired structure.
